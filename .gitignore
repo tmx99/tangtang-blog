@@ -1,0 +1,11 @@
+# GitHub Pages 不入库的文件
+# 百度网盘同步产生的临时文件（21 个）
+*.baiduyun*
+*.crdownload
+
+# 站内的格式回滚备份目录（与 articles 内容重复，不对外发布）
+articles_backup_before_format/
+
+# Windows 杂项
+Thumbs.db
+desktop.ini
