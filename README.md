@@ -12,6 +12,12 @@ images/        图片文件（文件名与文中引用一一对应）
 修订说明.md             错别字与格式统一说明
 ```
 
+## 在线访问
+
+**https://tmx99.github.io/tangtang-blog/**
+
+（GitHub Pages 托管，`main` 分支根目录发布；站点根目录放 `.nojekyll` 是为了跳过 Jekyll 处理，保证中文路径与文件原样输出。）
+
 ## 本地查看
 
 直接用浏览器打开 `index.html` 即可，无需服务器。所有链接均为相对路径。
